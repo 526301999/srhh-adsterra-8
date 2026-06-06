@@ -1,0 +1,136 @@
+# Validation Report - tabata-follow-along
+
+Generated: 2026-06-05T16:08:25.572906
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The History of Beginner Tabata Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Mastering Common Mistakes in Beginner Tabata Follow Along in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Beginner Tabata Follow Along for Beginners
+- ✓ Article word count OK: Advanced Beginner Tabata Follow Along Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Best Resources for Beginner Tabata Follow Along Tips and Best Practices
+- ✓ Article word count OK: Understanding Future of Beginner Tabata Follow Along: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About Beginner Tabata Follow Along
+- ✓ Article word count OK: Why Beginner Tabata Follow Along is Trending in 2026
+- ✓ Article word count OK: Beginner Tabata Follow Along in 2026: Current Trends 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Hidden Secrets of Beginner Tabata Follow Along for Beginners
+- ✓ Article word count OK: Proven Strategies for Advanced Beginner Tabata Follow Along Techniques
+- ✓ Article word count OK: Exploring the World of Beginner Tabata Follow Along in 2026: Current Trends
+- ✓ Article word count OK: Beginner Tabata Follow Along: Everything You Need to Know 101: Complete Beginner's Guide
+- ✓ Article word count OK: Why Beginner Tabata Follow Along is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Advanced Beginner Tabata Follow Along Techniques
+- ✓ Article word count OK: Everything You Need to Know About Advanced Beginner Tabata Follow Along Techniques
+- ✓ Article word count OK: Understanding Beginner Tabata Follow Along Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Beginner Tabata Follow Along: From Beginner to Expert
+- ✓ Article word count OK: Advanced Advanced Tabata Follow Along Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: Why Advanced Tabata Follow Along is Trending in 2026
+- ✓ Article word count OK: Advanced Advanced Tabata Follow Along Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Lowdown on Advanced Tabata Follow Along
+- ✓ Article word count OK: The Best Resources for Advanced Tabata Follow Along
+- ✓ Article word count OK: Advanced Tabata Follow Along for Beginners 101: Complete Beginner's Guide
+- ✓ Article word count OK: Understanding Advanced Tabata Follow Along: A Deep Dive
+- ✓ Article word count OK: Advanced Tabata Follow Along in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to The History of Advanced Tabata Follow Along
+- ✓ Article word count OK: Mastering Advanced Advanced Tabata Follow Along Techniques in Easy Steps
+- ✓ Article word count OK: Advanced Tabata Follow Along: Must-Read Insights and Reviews
+- ✓ Article word count OK: Proven Strategies for Future of Advanced Tabata Follow Along
+- ✓ Article word count OK: Advanced Tabata Follow Along for Beginners: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Understanding Advanced Tabata Follow Along: A Deep Dive
+- ✓ Article word count OK: The History of Advanced Tabata Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Tabata Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Advanced Tabata Follow Along: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Lowdown on Advanced Tabata Follow Along in 2026: Current Trends
+- ✓ Article word count OK: Proven Strategies for Tabata Follow Along Tips
+- ✓ Article word count OK: Tabata Follow Along Tips: From Beginner to Expert
+- ✓ Article word count OK: Proven Strategies for Tabata Follow Along Tips Tips and Best Practices
+- ✓ Article word count OK: Why Common Mistakes in Tabata Follow Along Tips is Trending in 2026
+- ✓ Article word count OK: The Ultimate Guide to Advanced Tabata Follow Along Tips Techniques
+- ✓ Article word count OK: Why Tabata Follow Along Tips for Beginners is Trending in 2026
+- ✓ Article word count OK: The Future of Tabata Follow Along Tips: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Advanced Tabata Follow Along Tips Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Mastering Common Mistakes in Tabata Follow Along Tips in Easy Steps
+- ✓ Article word count OK: The Best Resources for Future of Tabata Follow Along Tips
+- ✓ Article word count OK: Understanding Tabata Follow Along Tips Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Essential Tabata Follow Along Tips in 2026: Current Trends Techniques You Should Know
+- ✓ Article word count OK: Essential Tabata Follow Along Tips Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Advanced Tabata Follow Along Tips Techniques
+- ✓ Article word count OK: Exploring the World of Tabata Follow Along Tips
+- ✓ Article word count OK: Mastering Future of Tabata Follow Along Tips in Easy Steps
+- ✓ Article word count OK: Proven Strategies for Advanced Tabata Follow Along Tips Techniques
+- ✓ Article word count OK: Tabata Follow Along Tips in 2026: Current Trends: From Beginner to Expert
+- ✓ Article word count OK: Why The History of Tabata Follow Along History is Trending in 2026
+- ✓ Article word count OK: Exploring the World of Tabata Follow Along History Tips and Best Practices
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Tabata Follow Along History
+- ✓ Article word count OK: Exploring the World of Future of Tabata Follow Along History
+- ✓ Article word count OK: Everything You Need to Know About Tabata Follow Along History
+- ✓ Article word count OK: The Future of Advanced Tabata Follow Along History Techniques: What to Expect
+- ✓ Article word count OK: The Ultimate Guide to Advanced Tabata Follow Along History Techniques
+- ✓ Article word count OK: Essential Tabata Follow Along History: Everything You Need to Know Techniques You Should Know
+- ✓ Article word count OK: The Hidden Secrets of Advanced Tabata Follow Along History Techniques
+- ✓ Article word count OK: The Best Resources for Tabata Follow Along History Tips and Best Practices
+- ✓ Article word count OK: Mastering Tabata Follow Along History in Easy Steps
+- ✓ Article word count OK: Tabata Follow Along History in 2026: Current Trends 101: Complete Beginner's Guide
+- ✓ Article word count OK: Exploring the World of Tabata Follow Along History
+- ✓ Article word count OK: Essential Tabata Follow Along History Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: Why Tabata Follow Along History Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Why Tabata Follow Along History in 2026: Current Trends is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Tabata Follow Along History in 2026: Current Trends
+- ✓ Article word count OK: Essential Tabata Follow Along History Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: Proven Strategies for Trending Tabata Follow Along
+- ✓ Article word count OK: Trending Tabata Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Understanding Trending Tabata Follow Along Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Trending Tabata Follow Along: Everything You Need to Know: Must-Read Insights and Reviews
+- ✓ Article word count OK: Mastering Advanced Trending Tabata Follow Along Techniques in Easy Steps
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Trending Tabata Follow Along
+- ✓ Article word count OK: Why Trending Tabata Follow Along is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Advanced Trending Tabata Follow Along Techniques
+- ✓ Article word count OK: Everything You Need to Know About Trending Tabata Follow Along
+- ✓ Article word count OK: Why Trending Tabata Follow Along for Beginners is the Best Thing Ever
+- ✓ Article word count OK: Proven Strategies for Trending Tabata Follow Along Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Tabata Follow Along: Must-Read Insights and Reviews
+- ✓ Article word count OK: Everything You Need to Know About Trending Tabata Follow Along
+- ✓ Article word count OK: Is The History of Trending Tabata Follow Along Actually Worth It?
+- ✓ Article word count OK: The Lowdown on Trending Tabata Follow Along in 2026: Current Trends
+- ✓ Article word count OK: Trending Tabata Follow Along: Must-Read Insights and Reviews
+- ✓ Article word count OK: Mastering The History of Trending Tabata Follow Along in Easy Steps
+- ✓ Article word count OK: Why Trending Tabata Follow Along is Trending in 2026
+- ✓ Article word count OK: Advanced Tabata Follow Along Tutorials Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Ultimate Guide to Tabata Follow Along Tutorials
+- ✓ Article word count OK: Proven Strategies for Future of Tabata Follow Along Tutorials
+- ✓ Article word count OK: Tabata Follow Along Tutorials for Beginners for Real People
+- ✓ Article word count OK: Future of Tabata Follow Along Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Tabata Follow Along Tutorials
+- ✓ Article word count OK: Essential The History of Tabata Follow Along Tutorials Techniques You Should Know
+- ✓ Article word count OK: Tabata Follow Along Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Why Future of Tabata Follow Along Tutorials is Trending in 2026
+- ✓ Article word count OK: The Future of Tabata Follow Along Tutorials: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Essential Tabata Follow Along Tutorials Techniques You Should Know
+- ✓ Article word count OK: Amazing Secrets of Tabata Follow Along Tutorials Tips and Best Practices!
+- ✓ Article word count OK: The History of Tabata Follow Along Tutorials: From Beginner to Expert
+- ✓ Article word count OK: Tabata Follow Along Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: Proven Strategies for Tabata Follow Along Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Mastering Tabata Follow Along Tutorials in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Tabata Follow Along Tutorials
+- ✓ Article word count OK: The Hidden Secrets of Future of Tabata Follow Along Tutorials
+- ✓ Ad configuration validated
